@@ -15,3 +15,7 @@ Boston: https://drive.google.com/drive/folders/11eikgU0Pu_63-VMKPluyTK0mXA10j6Jk
 3.1 Install third-party packages according to `requirement.txt`
 
 3.2 Open `Yelp` or `Boston` folder and run `main.py` to train the model
+
+## 4.Overall framework
+
+![](.\model.png)
