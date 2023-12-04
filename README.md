@@ -18,4 +18,5 @@ Boston: https://drive.google.com/drive/folders/11eikgU0Pu_63-VMKPluyTK0mXA10j6Jk
 
 ## 4.Overall framework
 
-![](.\model.png)
+Look at the model.png file.
+
