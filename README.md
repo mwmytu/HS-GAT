@@ -8,7 +8,11 @@
 
 Yelp:  https://www.yelp.com/dataset
 
-Boston: https://drive.google.com/drive/folders/11eikgU0Pu_63-VMKPluyTK0mXA10j6Jk?usp=drive_link
+Boston: https://drive.google.com/drive/folders/1d8wMxfqKYHS1MKDVTBkx6WjZv-d9IsnB?usp=sharing
+
+Chicago:https://drive.google.com/drive/folders/1-sVXrjprYmCiNySIF-JVsVc3URI7Po2y?usp=sharing
+
+London:https://drive.google.com/drive/folders/1FTQ3gM1S8kO4vyPVBhMlsyUCDb4XZOrv?usp=sharing
 
 # 3.code
 
@@ -16,11 +20,11 @@ Boston: https://drive.google.com/drive/folders/11eikgU0Pu_63-VMKPluyTK0mXA10j6Jk
 
 3.2 Open `Yelp` or `Boston` folder and run `main.py` to train the model
 
-## 4.Overall framework
+# 4.Overall framework
 
 Look at the model.png file.
 
-## 5.Directory structure
+# 5.Directory structure
 
 The section illustrates the directory structure and provides explanations for the functionalities of files in our project.
 
