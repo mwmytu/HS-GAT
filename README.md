@@ -24,6 +24,8 @@ London:https://drive.google.com/drive/folders/1FTQ3gM1S8kO4vyPVBhMlsyUCDb4XZOrv?
 
 Look at the model.png file.
 
+![model _2_.png](https://s2.loli.net/2024/01/12/Qoy61jJnmSZq9Y4.png)
+
 # 5.Directory structure
 
 The section illustrates the directory structure and provides explanations for the functionalities of files in our project.
